@@ -113,6 +113,8 @@
 #include <arpa/inet.h>
 #endif
 
+#include "sys/system_properties.h"
+
 #ifdef _EVENT_HAVE_NETINET_IN6_H
 #include <netinet/in6.h>
 #endif
